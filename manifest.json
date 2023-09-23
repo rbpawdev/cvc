@@ -1,6 +1,6 @@
 {
-  "name": "Briefing",
-  "short_name": "Briefing",
+  "name": "Catholicam Video Conference",
+  "short_name": "CVC",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -20,15 +20,15 @@
   "theme_color": "#272727",
   "author": "Dirk Holtwick",
   "description": "Secure direct video chat",
-  "homepage_url": "https://brie.fi/",
-  "url": "https://brie.fi/",
+  "homepage_url": "https://catholicam.faith",
+  "url": "https://catholicam.faith/",
   "lang": "EN",
   "screenshots": [
     {
-      "src": "https://catvc.onrender.com/sample.jpg",
+      "src": "https://catholicam.faith/sample.jpg",
       "type": "image/png",
       "size": "1478x1988",
-      "description": "Screenshot Briefing App"
+      "description": "Icon Video Conference App"
     }
   ],
   "features": [
