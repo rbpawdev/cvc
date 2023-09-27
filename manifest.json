@@ -1,6 +1,6 @@
 {
-  "name": "Catholicam Video Conference",
-  "short_name": "CVC",
+  "name": "Voce Video Conference",
+  "short_name": "VVC",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -20,12 +20,12 @@
   "theme_color": "#272727",
   "author": "Dirk Holtwick",
   "description": "Secure direct video chat",
-  "homepage_url": "https://catholicam.faith",
-  "url": "https://catholicam.faith/",
+  "homepage_url": "https://voce.cc",
+  "url": "https://voce.cc/",
   "lang": "EN",
   "screenshots": [
     {
-      "src": "https://catholicam.faith/sample.jpg",
+      "src": "https://voce.cc/sample.jpg",
       "type": "image/png",
       "size": "1478x1988",
       "description": "Icon Video Conference App"
