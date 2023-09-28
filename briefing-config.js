@@ -6,5 +6,6 @@ window.briefingConfig = {
 	MUTE_VIDEO: 1,
 	MUTE_AUDIO: 1,
 	SHOW_INVITATION: 0,
-	SHOW_INVITATION_HINT: 0
+	SHOW_INVITATION_HINT: 0,
+	SIGNAL_URL: 'wss://brie.fi'
 }
